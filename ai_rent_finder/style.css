@@ -1,0 +1,86 @@
+
+/* 
+   Style: Notion/Feishu Inspired - Minimalist, Clean, Soft
+   Primary Color: Soft Blue
+*/
+:root {
+    --primary-color: #4A90E2; /* A soft, friendly blue */
+    --background-color: #FDFDFD; /* Almost white, very clean */
+    --card-background-color: #FFFFFF;
+    --text-color: #333333; /* Dark gray, not pure black */
+    --subtle-text-color: #777777; /* Lighter gray for secondary text */
+    --border-color: #F0F0F0; /* Very light border */
+    --accent-background: #F5F8FA; /* Subtle background for AI card */
+}
+
+/* General Body & Font Styles */
+body {
+    background-color: var(--background-color);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: var(--text-color); /* 全局默认文本颜色 */
+}
+
+/* Card Style - Notion/Feishu like */
+.card, .card-ai {
+    background-color: var(--card-background-color);
+    border-radius: 20px; /* Large rounded corners */
+    padding: 32px; /* Ample whitespace */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04); /* Very subtle shadow */
+    border: 1px solid var(--border-color);
+    margin-bottom: 24px;
+    transition: box-shadow 0.2s ease-in-out;
+}
+
+.card:hover, .card-ai:hover {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06); /* Slightly more pronounced shadow on hover */
+}
+
+.card h4 {
+    color: var(--text-color);
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.card p {
+    color: var(--subtle-text-color);
+    line-height: 1.8; /* Generous line height for readability */
+    font-weight: 400;
+    font-size: 0.95rem;
+}
+
+/* AI Analysis Card - subtle distinction */
+.card-ai {
+    background-color: var(--accent-background);
+    border-left: none; /* Remove the colored left border for a cleaner look */
+}
+
+/* Button Style - Soft & Minimal */
+div[data-testid="stButton"] > button {
+    border-radius: 12px !important;
+    background-color: var(--primary-color) !important;
+    color: white !important;
+    border: none !important;
+    transition: background-color 0.2s ease-in-out !important; /* Only transition color */
+    font-weight: 500 !important;
+    box-shadow: none !important; /* No shadow on button */
+    padding: 10px 20px !important;
+}
+
+div[data-testid="stButton"] > button:hover {
+    background-color: #357ABD !important; /* Slightly darker on hover */
+    transform: none !important; /* No scaling effect */
+}
+
+/* Sidebar Style */
+div[data-testid="stSidebarUserContent"] {
+    background-color: #F8F9FA; /* A very light gray, distinct from main background */
+    border-right: 1px solid var(--border-color);
+}
+
+/* Header styles */
+h1, h2, h3 {
+    color: var(--text-color);
+    font-weight: 600;
+}

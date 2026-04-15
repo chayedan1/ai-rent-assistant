@@ -1,0 +1,223 @@
+[
+  {
+    "id": "1",
+    "title": "福田中心区精装两房",
+    "price": 6500,
+    "layout": "2室1厅",
+    "area": "75㎡",
+    "district": "福田区",
+    "community": "皇庭世纪",
+    "ai_score": 88,
+    "collected_at": "2025-04-10 14:30",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "近地铁",
+      "精装修",
+      "南向"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "南山科技园单间公寓",
+    "price": 4200,
+    "layout": "1室0厅",
+    "area": "35㎡",
+    "district": "南山区",
+    "community": "大冲新城花园",
+    "ai_score": 82,
+    "collected_at": "2025-04-11 09:15",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "近地铁",
+      "电梯房",
+      "新小区"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "罗湖国贸商圈三房",
+    "price": 7800,
+    "layout": "3室2厅",
+    "area": "98㎡",
+    "district": "罗湖区",
+    "community": "金光华广场",
+    "ai_score": 85,
+    "collected_at": "2025-04-11 16:45",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "商圈房",
+      "交通便利",
+      "配套完善"
+    ]
+  },
+  {
+    "id": "house_1776074876.467251",
+    "title": "整租·泰华大厦 3室2厅 东南",
+    "price": 5200,
+    "layout": "3室2厅",
+    "area": "00㎡",
+    "district": "宝安区",
+    "community": "未知小区",
+    "ai_score": 63,
+    "collected_at": "2026-04-13 18:07",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "可以考虑"
+    ],
+    "link": "https://sz.ke.com/zufang/SZ2153708250120323072.html",
+    "description": "宝安区-新安-泰华大厦/70.00㎡/东南/3室2厅1卫/低楼层（26层）"
+  },
+  {
+    "id": "house_1776074877.320487",
+    "title": "整租·京基天珺府 3室1厅 东",
+    "price": 6900,
+    "layout": "3室1厅",
+    "area": "00㎡",
+    "district": "罗湖区",
+    "community": "未知小区",
+    "ai_score": 53,
+    "collected_at": "2026-04-13 18:07",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "需谨慎"
+    ],
+    "link": "https://sz.ke.com/zufang/SZ2153760170805559296.html",
+    "description": "罗湖区-布心-京基天珺府/68.00㎡/东/3室1厅1卫/高楼层（50层）"
+  },
+  {
+    "id": "house_1776074878.131082",
+    "title": "整租·奥园和平广场 1室1厅 南",
+    "price": 1995,
+    "layout": "1室1厅",
+    "area": "00㎡",
+    "district": "光明区",
+    "community": "未知小区",
+    "ai_score": null,
+    "collected_at": "2026-04-13 18:07",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "待评估"
+    ],
+    "link": "https://sz.ke.com/zufang/SZ2065382850529591296.html",
+    "description": "光明区-公明-奥园和平广场/41.00㎡/南/1室1厅1卫/中楼层（27层）"
+  },
+  {
+    "id": "house_1776075279.31201",
+    "title": "泛海城市广场 拎包入住 1室1厅1卫 精装修\n\n安选",
+    "price": 0,
+    "layout": "1室1厅",
+    "area": "未知",
+    "district": "未知",
+    "community": "未知小区",
+    "ai_score": null,
+    "collected_at": "2026-04-13 18:14",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "待评估"
+    ],
+    "link": "https://sz.zu.anjuke.com/fangyuan/4512124395461634?isauction=2&shangquan_id=2685&legoFeeUrl=https%3A%2F%2Flegoclick.58.com%2Fjump%3Ftarget%3DpZwY0ZnlsztdraOWUvYKuaYOmyDLPH01mzdbmyPbsHwhnH9Vmyn3uadBmW0kuHnLnWPhnvNKnHD3P1EzPWndnWDkrjc1TEDYPHDznHcYn1bdPjmQPWnYTHcznjTkTHcznjTkTHD_nHTKPTDQP10drHE3PHbQnH9QTHDkTNujsRKjsN72izLMGO4hBstVlU8ml2lbOmBgl2AClpAdTHDKnEDKsHDKTHckPjcdnWEkPWTkrHcYrjbLnWbKP9DKnEDvnv7BnvDOPBYQPAFhsHw6nhEVrjDLPiYduHnLPH--mWNzuj9KnWTYnWNzPjTvnjcQnjTzPjEYrTDznjEzPHcYnjmknH9kPWm3PjDLTEDQsjDkTEDKTiYKTEDKTHDYsWcQsW9QsW01THTKnTDKnikQnE7exEDQnjT1P9DQnjTQPWmYTHcLuHcdnHw-sH6bnhEVPjFhnzd6P1m3syczmWIbPHb3PyD1m9DKPTDKTHTKPakQrjDQsjcvrjNKnE78IyQ_TymdnARbPWDvmHbvm1ubuHN&lego_tid=27e2514e-8d2d-42f3-a768-b2b7d5985a3b&psid=469524e09b7fb5785c9c7489a50ecaea",
+    "description": "深圳 | 1室1厅|41.7平米|高层(共30层)"
+  },
+  {
+    "id": "house_1776075282.52938",
+    "title": "注意注意！阳光花地苑懒人专属一房一厅上线！一套，手慢无\n\n安选",
+    "price": 0,
+    "layout": "1室1厅",
+    "area": "未知",
+    "district": "未知",
+    "community": "未知小区",
+    "ai_score": null,
+    "collected_at": "2026-04-13 18:14",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "待评估"
+    ],
+    "link": "https://sz.zu.anjuke.com/fangyuan/4516211113665551?isauction=2&shangquan_id=2685&legoFeeUrl=https%3A%2F%2Flegoclick.58.com%2Fjump%3Ftarget%3DpZwY0ZnlsztdraOWUvYKuaYOmyDLPH01mzdbmyPbsHwhnH9Vmyn3uadBmW0kuHnLnWPhnvNKPWm1PHT3n1TznW0znjmKTHEdnHmznHDQnHnvPWNdPHDKnWcknjTKnH0vnjTKnikQnTDYTHDLP1NOPj9drHDQrjDKrE7AEzdEEzdKib_VOlXxOCB4sXhehrB8Gryc-SB6Jrh6VEDQTHDKTiYQTEDznjEzrHNQPHEdrjmLnWc1njEkTHmKTHDKnWmznWnknvNVrHmOuiYYmhPBsy7WnHTVujbLnWbdnAN3rjwbTHckPjcOPHDdPjNOP1m1P101PjEKnWTYnWbdnHNYPHbYP1TQP1cQP9DKnikQnTDKTEDVTEDKTEDQPa3zni33ni3LnkDkTHTKTHD_nHDKXLYKnHTkn1mKnHTknHmvPTDvP1cYPhmvPzYQn1F6sHwbnAEVmHbLmzYOmvnvmHDdnHn3PWDKTHEKTEDkTHE_nH9QnikzPW9dTHDKUMR_UTDYPyF6ujKbrHEQuWmOrHF-&lego_tid=67246f67-132a-4d0d-a97c-9cc6a1513861&psid=469524e09b7fb5785c9c7489a50ecaea",
+    "description": "深圳 | 1室1厅|37.6平米|中层(共27层)"
+  },
+  {
+    "id": "house_1776075494.664937",
+    "title": "无中介费，押一付一，一房两卫，家电齐全\n\n安选",
+    "price": 0,
+    "layout": "1室1厅",
+    "area": "未知",
+    "district": "未知",
+    "community": "未知小区",
+    "ai_score": null,
+    "collected_at": "2026-04-13 18:18",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "待评估"
+    ],
+    "link": "https://sz.zu.anjuke.com/fangyuan/4475180749270017?isauction=2&shangquan_id=2685&legoFeeUrl=https%3A%2F%2Flegoclick.58.com%2Fjump%3Ftarget%3DpZwY0ZnlsztdraOWUvYKuaYOmyDLPH01mzdbmyPbsHwhnH9Vmyn3uadBmW0kuHnLnWPhnvNKrj0Onj0OrHNQnH91P1nKTHEYP1NQrjTLPjbzP1TknH0KnHnznjTKnHTvnjTKnikQnTDYTHDLP1NOPj9drHDQrjDKnHNKwbnVNDnVENGssXXMMSpcfzLG8OWCoJH-BFxCCpWGCUNKnEDQTEDVnEDKnWTYnWbzPHcYPjDdrjmOP1ELn9DvTEDQTHmznjcYuWbksH9kPynVPjuhnid6PHTQsHckm1w6PjNvuAwbPTDznjEzrHcdnWEYnWm1PHNdnj0zTHckPjcOnWNzPjEzn1EQrjcvPHmKTHD_nHTKTEDKsEDKTEDKnHE8nWD8rjD8P1nKnTDkTEDQsjDQTgVqTHDknjnvTHDknjDvPWEKuj7-P1bkuyDVnjnYmBYYujwhsH6-uH9VnWn1PyNLmHT1rjIhTEDYTEDKnTDYsjD3nHD_nWm3PEDQTyOdUAkKP1cLn1T3njTYuymYP1N3Pk&lego_tid=d1e790ea-034b-4d4f-8ee8-2335e7a0387f&psid=469524e09b7fb5785c9c7489a50ecaea",
+    "description": "深圳 | 1室1厅|87.1平米|低层(共46层)"
+  },
+  {
+    "id": "house_1776075497.023627",
+    "title": "实图实价押一付一，采光通透，家具齐全，拎包入住\n\n安选",
+    "price": 0,
+    "layout": "1室1厅",
+    "area": "未知",
+    "district": "未知",
+    "community": "未知小区",
+    "ai_score": null,
+    "collected_at": "2026-04-13 18:18",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "待评估"
+    ],
+    "link": "https://sz.zu.anjuke.com/fangyuan/4525939612902409?isauction=2&shangquan_id=11994&legoFeeUrl=https%3A%2F%2Flegoclick.58.com%2Fjump%3Ftarget%3DpZwY0ZnlsztdraOWUvYKuaYOmyDLPH01mzdbmyPbsHwhnH9Vmyn3uadBmW0kuHnLnWPhnvNKPjcdrH0kPWcknjb3P1TKTHEdnWNOn1bvnHcOnjcYnjbKnHcknjTKnHcknjTKnikQnTDYTHDLP1NOPj9drHDQrjDKnWTKwbnVNDnVENGssXXMMSpcfzLG8OWCoJH-BFxCCpWGCUNKnEDQTEDVnEDKnWTYnH0YnHndnHnznH0kPWEOP9DvTEDQTHNOmW7hm1F-sHKbnWDVPAPhPaYOuy7BsyDLmW7WnjmvmyRWn9DznjEQP1EQn1NQPjnYrjN3Pjb3THckPjDLPjD1PHDYnjNdrj9YrjTKTHD_nHTKTEDKsEDKTEDKnHE8nWD8rjD8P1nKnTDkTEDQsjDQTgVqTHDknjnvTHDknjDvPWEKnW7-ujbLuyDVP1DLraYYrHIhsyDQnhDVP1mOPHRWPAuWujbvTEDYTEDKnTDYsjD3nHD_nHDOrHEKnE78IyQ_THNznW--m10LrjmkuWR-PhN&lego_tid=21ed97ea-7178-497f-a12a-76955c4fcd96&psid=469524e09b7fb5785c9c7489a50ecaea",
+    "description": "深圳 | 1室1厅|47平米|高层(共13层)"
+  },
+  {
+    "id": "house_1776086507.987639",
+    "title": "整租·佳兆业中心 2室2厅 东",
+    "price": 5500,
+    "layout": "2室2厅",
+    "area": "02㎡",
+    "district": "福田区",
+    "community": "未知小区",
+    "ai_score": null,
+    "collected_at": "2026-04-13 21:21",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "待评估"
+    ],
+    "link": "https://sz.ke.com/zufang/SZ2046139060858126336.html",
+    "description": "福田区-上步-佳兆业中心/69.02㎡/东/2室2厅1卫/低楼层（29层）"
+  },
+  {
+    "id": "house_1776252928.053308",
+    "title": "整租·宣嘉华庭 3室1厅 东南",
+    "price": 7400,
+    "layout": "3室1厅",
+    "area": "13㎡",
+    "district": "福田区",
+    "community": "未知小区",
+    "ai_score": null,
+    "collected_at": "2026-04-15 19:35",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "待评估"
+    ],
+    "link": "https://sz.ke.com/zufang/SZ2154138273591590912.html",
+    "description": "福田区-皇岗-宣嘉华庭/85.13㎡/东南/3室1厅2卫/中楼层（31层）"
+  },
+  {
+    "id": "house_1776252930.279493",
+    "title": "独栋·中盈菁英公寓 南山科技园店 开发商直租、高新中站地铁口精装修独栋公寓、24小时前台管家保安服务、外卖快递可送上楼、短租有涨幅 开间",
+    "price": 6374,
+    "layout": "1室0厅",
+    "area": "00㎡",
+    "district": "未知",
+    "community": "未知小区",
+    "ai_score": null,
+    "collected_at": "2026-04-15 19:35",
+    "image": "https://via.placeholder.com/400x300/334155/475569?text=房源图片",
+    "tags": [
+      "待评估"
+    ],
+    "link": "https://sz.ke.com/apartment/75691.html",
+    "description": "48.00㎡/11间在租/1室0厅1卫"
+  }
+]
